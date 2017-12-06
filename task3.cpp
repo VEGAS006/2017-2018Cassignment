@@ -1,5 +1,5 @@
 /*This program is for calculate a positive integer's digits and if it is a perfect squares or not*/
-#include<stdio.h>
+#include <stdio.h>
 int main(){
     int interger,i,j,digits,n;
 	i=0;                        //'i' is a parameter to if the function run in the second for looping
